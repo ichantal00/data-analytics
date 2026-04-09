@@ -1,0 +1,55 @@
+1.What conclusion can you reach about the responses to this question?
+2. Is the default summary or visualization helpful? How could it be improved?
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+5. Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+Next respond to the below questions:
+6. Is there anything that surprised you about the survey responses?
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not? (If you can see both pros and cons, you may include both.)
+
+
+
+
+
+What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+1.People are getting ready to join into class
+2.yes
+3.no
+4.they can vary
+5. maybe providing options
+6.Everyone put a similar response
+
+Do you have a second monitor connected to your computer?
+1. Most have a second monitor of some kind
+2.yes
+3.for some it isn't a direct yes or no answer as it falls in between. or further clarification is needed for the question
+4.n/a
+5.Do you have a second monitor(including a second computer or tablet) that you can use to view content?
+
+Do you have an external keyboard and mouse?
+1. 12 no's 10 13 yes's... so very close
+2. yes
+3.Since the questions asks do you have a keyboard AND mouse if someone has one and not the other it falls under no automatically. excluding those who use touchpad or touchscreen monitors
+4.n/a
+5.Maybe ask one at a time... or ask do you need an external mouse or keyboard?
+
+How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else? 
+1. I can conclude people are prepared to take notes and both computer and pen/paper seem to be the favored options
+2.yes
+3.the text is written in the same field as the other responses....no
+4.n/a
+5.i think this question does well
+
+What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+1. most people have a question than don't
+2. yes
+3.It is written under the question... the questions are so varied that its hard to categorize... the main question may need to be more specific
+4. There is no specific category for many of the responses. some responses were even about career and one was super vague... asking for more data information
+5.Do you have a question about this course? Do you have a question about tutoring, assignments, prospective career information or other?
+6. Some questions were very interesting
+7.If capstones are done early and you check it and something is wrong, can we have the chance to resubmit it if it is before the due date?Will we ever be required to present findings as part of a capstone, to ensure we build our storytelling skills as aspiring data analysts?
+
+8. I would go over the importance of sentence structure to avoid confusion with survey takers and teach of when it is important to provide options for the survey taker so putting things in categories are a lot easier.it also depends on the type of survey though.
+9. i don't think knowing the who would have mattered in this case as it doesn't affect the results. 
