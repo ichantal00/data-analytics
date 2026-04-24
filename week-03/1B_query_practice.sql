@@ -16,4 +16,19 @@ AND unitsonorder >= 1;
 -- unit type categoryid 4
 -- list of categories in field types
 
-SELECT 
+SELECT * from categories;
+SELECT * FROM categories WHERE categoryName = 'seafood';
+
+SELECT SupplierID FROM products;
+SELECT * FROM suppliers WHERE city LIKE '%okyo';
+
+SELECT * FROM products WHERE supplierid = 4; 
+
+SELECT * FROM employees; -- 9
+
+SELECT * FROM employees WHERE Title LIKE '%anager'; -- Steven Buchanan
+
+
+
+
+
