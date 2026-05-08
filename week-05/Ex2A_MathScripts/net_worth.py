@@ -22,3 +22,19 @@ print(f"Side A is {SideA}")
 print(f"Side B is {SideB}")
 
 print(f"The area of the rectangle is {area}")
+
+
+#Restaurant Tip
+
+print("---------------------------------------------------------------")
+print("------------------- Restaurant Bill ---------------------------")
+print("                                                               ")
+res = int(input("Please enter bill amount $ "))
+tax = float(input("Please enter tax amount $ "))
+
+tip = res * .15
+
+print (f"The tip on a $ {tip} restaurant bill is $ {res + tax}")
+print (f"Total amount is $ {res + tip + tax}")
+
+
