@@ -37,4 +37,18 @@ tip = res * .15
 print (f"The tip on a $ {tip} restaurant bill is $ {res + tax}")
 print (f"Total amount is $ {res + tip + tax}")
 
+#Area of a circle
+
+import math
+diameter = int(input("What is the day of your birthday? "))
+
+radius = float(diameter/2)
+
+area = math.pi * radius**2
+
+print (f"The area of a circle with radius {radius} is {area}")
+
+
+
+
 
