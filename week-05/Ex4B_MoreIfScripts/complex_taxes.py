@@ -39,3 +39,6 @@ else:
     monthly_pay = yearly_pay / 12
     print(f"Employee will receive yearly pay of ${yearly_pay}. Monthly pay is ${monthly_pay:.2f}")
 
+weekly_pay = monthly_pay / 4
+
+print(f"Employee weekly pay is ${weekly_pay}")
