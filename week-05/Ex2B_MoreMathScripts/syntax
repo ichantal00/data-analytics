@@ -1,0 +1,30 @@
+def greeting():
+    name = input ("Please enter your name: ")
+    print(f"Hello, {name}!")
+
+greeting()
+
+
+def user():
+    first_name = input("First name: ")
+    last_name = input("Last Name: ")
+
+    return first_name, last_name
+
+#print(f"Hello {first_name}{last_name}")
+
+
+
+txt = "Python"
+
+print("First Character: ", txt [0])
+print("Last Character:", txt [-1])
+
+txt = "apple#banana#cherry#orange"
+
+# setting the maxsplit parameter to 1, will return a list with 2 elements!
+x = txt.split("#", 1)
+
+print(x)
+
+
